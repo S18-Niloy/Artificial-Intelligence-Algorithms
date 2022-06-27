@@ -1,6 +1,6 @@
 
 from collections import deque
-from copy import deepcopy
+
 print("============================================= Task 01 output =============================================")
 
 def max_region(affected):
